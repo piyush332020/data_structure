@@ -1,2 +1,2 @@
-                    q.push(num);
+                    if (num == dest) break;
 
