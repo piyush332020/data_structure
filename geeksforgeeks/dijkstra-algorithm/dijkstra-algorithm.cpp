@@ -1,2 +1,2 @@
-                    dist[num.first]=num.second+nodedist;
+                if(num.second + distancenode < dist[num.first]){
 
