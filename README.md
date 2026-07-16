@@ -114,20 +114,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/piyush332020/data_structure/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/piyush332020/data_structure/tree/master/0797-all-paths-from-source-to-target) |
 | [2685-count-the-number-of-complete-components](https://github.com/piyush332020/data_structure/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/piyush332020/data_structure/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/piyush332020/data_structure/tree/master/0797-all-paths-from-source-to-target) |
 | [2685-count-the-number-of-complete-components](https://github.com/piyush332020/data_structure/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/piyush332020/data_structure/tree/master/0684-redundant-connection) |
 | [2685-count-the-number-of-complete-components](https://github.com/piyush332020/data_structure/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/piyush332020/data_structure/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/piyush332020/data_structure/tree/master/0797-all-paths-from-source-to-target) |
 | [2685-count-the-number-of-complete-components](https://github.com/piyush332020/data_structure/tree/master/2685-count-the-number-of-complete-components) |
 ## Backtracking
