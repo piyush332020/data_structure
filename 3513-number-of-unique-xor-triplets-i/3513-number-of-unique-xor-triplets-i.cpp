@@ -2,8 +2,7 @@ class Solution {
 public:
     int uniqueXorTriplets(vector<int>& nums) {
         int n=nums.size();
-        if(n==1) return 1;
-        if(n==2) return 2;
+        if(n<3) return n;
         if(n==3) return 4;
         int ans=0;
         int i=2;
