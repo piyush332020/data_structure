@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/piyush332020/data_structure/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/piyush332020/data_structure/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/piyush332020/data_structure/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/piyush332020/data_structure/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/piyush332020/data_structure/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/piyush332020/data_structure/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/piyush332020/data_structure/tree/master/3976-maximum-subarray-sum-after-multiplier) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/piyush332020/data_structure/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/piyush332020/data_structure/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/piyush332020/data_structure/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/piyush332020/data_structure/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## Enumeration
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/piyush332020/data_structure/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/piyush332020/data_structure/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/piyush332020/data_structure/tree/master/1221-split-a-string-in-balanced-strings) |
+| [3659-partition-array-into-k-distinct-groups](https://github.com/piyush332020/data_structure/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## Greedy
 |  |
 | ------- |
