@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int minimumPushes(string word) { 
+    int minimumPushes(string word) {
         int n=word.size();
         if(n<=8) return n;
         if(n>16 && n<=24) return 3*n-24;
