@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/piyush332020/data_structure/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/piyush332020/data_structure/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/piyush332020/data_structure/tree/master/0134-gas-station) |
+| [0169-majority-element](https://github.com/piyush332020/data_structure/tree/master/0169-majority-element) |
 | [0622-design-circular-queue](https://github.com/piyush332020/data_structure/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyush332020/data_structure/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/piyush332020/data_structure/tree/master/1260-shift-2d-grid) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/piyush332020/data_structure/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/piyush332020/data_structure/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyush332020/data_structure/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/piyush332020/data_structure/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/piyush332020/data_structure/tree/master/1331-rank-transform-of-an-array) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/piyush332020/data_structure/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyush332020/data_structure/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/piyush332020/data_structure/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/piyush332020/data_structure/tree/master/1331-rank-transform-of-an-array) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/piyush332020/data_structure/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyush332020/data_structure/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/piyush332020/data_structure/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/piyush332020/data_structure/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -227,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/piyush332020/data_structure/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/piyush332020/data_structure/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
