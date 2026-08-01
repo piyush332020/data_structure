@@ -1,17 +1,23 @@
 class Solution {
 private:
-    int solve(int i,int j,vector<int>& nums){
-        if(i==j) return nums[i];
-        //include
-        int includefirst=nums[i]-solve(i+1,j,nums);
-        int includelast=nums[j]-solve(i,j-1,nums);
-        return max(includefirst,includelast);
+    bool solve(int i, int j, vector<int>& nums,int onesum, int twosum, bool player1) {
+        if(i > j) {
+            return onesum >= twosum;
+        }
+        if(player1) {
+            bool pickFirst = solve(i + 1, j, nums,onesum + nums[i], twosum, false);
+            bool pickLast = solve(i, j - 1, nums,onesum + nums[j], twosum, false);
+            return pickFirst || pickLast;
+        }
+        else {
+            bool pickFirst = solve(i + 1, j, nums,onesum, twosum + nums[i], true);
+            bool pickLast = solve(i, j - 1, nums,onesum, twosum + nums[j], true);
+            return pickFirst && pickLast;
+        }
     }
 public:
     bool predictTheWinner(vector<int>& nums) {
-        int n=nums.size()-1;
-        int diff=solve(0,n,nums);
-        if(diff>=0) return true;
-        return  false;
+        int n=nums.size();
+        return solve(0,n-1,nums,0,0,true);
     }
 };
