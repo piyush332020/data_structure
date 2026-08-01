@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/piyush332020/data_structure/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/piyush332020/data_structure/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/piyush332020/data_structure/tree/master/0169-majority-element) |
+| [0486-predict-the-winner](https://github.com/piyush332020/data_structure/tree/master/0486-predict-the-winner) |
 | [0622-design-circular-queue](https://github.com/piyush332020/data_structure/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyush332020/data_structure/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/piyush332020/data_structure/tree/master/1260-shift-2d-grid) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/piyush332020/data_structure/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/piyush332020/data_structure/tree/master/0064-minimum-path-sum) |
+| [0486-predict-the-winner](https://github.com/piyush332020/data_structure/tree/master/0486-predict-the-winner) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/piyush332020/data_structure/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Matrix
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/piyush332020/data_structure/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyush332020/data_structure/tree/master/0628-maximum-product-of-three-numbers) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/piyush332020/data_structure/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/piyush332020/data_structure/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -237,4 +240,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/piyush332020/data_structure/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/piyush332020/data_structure/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/piyush332020/data_structure/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
