@@ -214,6 +214,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/piyush332020/data_structure/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/piyush332020/data_structure/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/piyush332020/data_structure/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/piyush332020/data_structure/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/piyush332020/data_structure/tree/master/0078-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/piyush332020/data_structure/tree/master/0797-all-paths-from-source-to-target) |
@@ -280,4 +281,5 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/piyush332020/data_structure/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/piyush332020/data_structure/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
