@@ -33,6 +33,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/piyush332020/data_structure/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/piyush332020/data_structure/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/piyush332020/data_structure/tree/master/3659-partition-array-into-k-distinct-groups) |
+| [3731-find-missing-elements](https://github.com/piyush332020/data_structure/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/piyush332020/data_structure/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/piyush332020/data_structure/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/piyush332020/data_structure/tree/master/3976-maximum-subarray-sum-after-multiplier) |
@@ -54,6 +55,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/piyush332020/data_structure/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/piyush332020/data_structure/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/piyush332020/data_structure/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/piyush332020/data_structure/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/piyush332020/data_structure/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/piyush332020/data_structure/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Stack
@@ -87,6 +89,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/piyush332020/data_structure/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/piyush332020/data_structure/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/piyush332020/data_structure/tree/master/3659-partition-array-into-k-distinct-groups) |
+| [3731-find-missing-elements](https://github.com/piyush332020/data_structure/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
 | ------- |
