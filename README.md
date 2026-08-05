@@ -191,12 +191,14 @@
 | [0797-all-paths-from-source-to-target](https://github.com/piyush332020/data_structure/tree/master/0797-all-paths-from-source-to-target) |
 | [1192-critical-connections-in-a-network](https://github.com/piyush332020/data_structure/tree/master/1192-critical-connections-in-a-network) |
 | [2685-count-the-number-of-complete-components](https://github.com/piyush332020/data_structure/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/piyush332020/data_structure/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/piyush332020/data_structure/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/piyush332020/data_structure/tree/master/0797-all-paths-from-source-to-target) |
 | [2685-count-the-number-of-complete-components](https://github.com/piyush332020/data_structure/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/piyush332020/data_structure/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -209,6 +211,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/piyush332020/data_structure/tree/master/0797-all-paths-from-source-to-target) |
 | [1192-critical-connections-in-a-network](https://github.com/piyush332020/data_structure/tree/master/1192-critical-connections-in-a-network) |
 | [2685-count-the-number-of-complete-components](https://github.com/piyush332020/data_structure/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/piyush332020/data_structure/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
 |  |
 | ------- |
