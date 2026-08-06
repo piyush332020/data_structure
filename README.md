@@ -8,6 +8,7 @@
 | ------- |
 | [0018-4sum](https://github.com/piyush332020/data_structure/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/piyush332020/data_structure/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/piyush332020/data_structure/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/piyush332020/data_structure/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/piyush332020/data_structure/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/piyush332020/data_structure/tree/master/0064-minimum-path-sum) |
@@ -81,6 +82,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/piyush332020/data_structure/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/piyush332020/data_structure/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyush332020/data_structure/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/piyush332020/data_structure/tree/master/1189-maximum-number-of-balloons) |
@@ -148,6 +150,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/piyush332020/data_structure/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/piyush332020/data_structure/tree/master/0064-minimum-path-sum) |
 | [1260-shift-2d-grid](https://github.com/piyush332020/data_structure/tree/master/1260-shift-2d-grid) |
 ## Sliding Window
@@ -218,6 +221,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/piyush332020/data_structure/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/piyush332020/data_structure/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/piyush332020/data_structure/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/piyush332020/data_structure/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/piyush332020/data_structure/tree/master/0077-combinations) |
@@ -285,6 +289,11 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/piyush332020/data_structure/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/piyush332020/data_structure/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/piyush332020/data_structure/tree/master/0052-n-queens-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/piyush332020/data_structure/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
