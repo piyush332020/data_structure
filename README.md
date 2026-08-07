@@ -15,6 +15,7 @@
 | [0078-subsets](https://github.com/piyush332020/data_structure/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/piyush332020/data_structure/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/piyush332020/data_structure/tree/master/0134-gas-station) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyush332020/data_structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/piyush332020/data_structure/tree/master/0169-majority-element) |
 | [0486-predict-the-winner](https://github.com/piyush332020/data_structure/tree/master/0486-predict-the-winner) |
 | [0622-design-circular-queue](https://github.com/piyush332020/data_structure/tree/master/0622-design-circular-queue) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/piyush332020/data_structure/tree/master/0018-4sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyush332020/data_structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/piyush332020/data_structure/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -259,6 +261,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/piyush332020/data_structure/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyush332020/data_structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/piyush332020/data_structure/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/piyush332020/data_structure/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
