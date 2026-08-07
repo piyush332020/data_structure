@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/piyush332020/data_structure/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/piyush332020/data_structure/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/piyush332020/data_structure/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/piyush332020/data_structure/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/piyush332020/data_structure/tree/master/0051-n-queens) |
@@ -263,6 +264,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/piyush332020/data_structure/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/piyush332020/data_structure/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyush332020/data_structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/piyush332020/data_structure/tree/master/1004-max-consecutive-ones-iii) |
