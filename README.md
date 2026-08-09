@@ -23,6 +23,7 @@
 | [0189-rotate-array](https://github.com/piyush332020/data_structure/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/piyush332020/data_structure/tree/master/0219-contains-duplicate-ii) |
 | [0486-predict-the-winner](https://github.com/piyush332020/data_structure/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/piyush332020/data_structure/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/piyush332020/data_structure/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/piyush332020/data_structure/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyush332020/data_structure/tree/master/0628-maximum-product-of-three-numbers) |
@@ -80,6 +81,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/piyush332020/data_structure/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/piyush332020/data_structure/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/piyush332020/data_structure/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/piyush332020/data_structure/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/piyush332020/data_structure/tree/master/1441-build-an-array-with-stack-operations) |
 ## Simulation
@@ -93,6 +95,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/piyush332020/data_structure/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/piyush332020/data_structure/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/piyush332020/data_structure/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/piyush332020/data_structure/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Hash Table
 |  |
@@ -104,6 +107,7 @@
 | [0219-contains-duplicate-ii](https://github.com/piyush332020/data_structure/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyush332020/data_structure/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/piyush332020/data_structure/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/piyush332020/data_structure/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/piyush332020/data_structure/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/piyush332020/data_structure/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/piyush332020/data_structure/tree/master/1331-rank-transform-of-an-array) |
