@@ -46,6 +46,7 @@
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/piyush332020/data_structure/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/piyush332020/data_structure/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/piyush332020/data_structure/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/piyush332020/data_structure/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/piyush332020/data_structure/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/piyush332020/data_structure/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/piyush332020/data_structure/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -123,6 +124,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/piyush332020/data_structure/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/piyush332020/data_structure/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/piyush332020/data_structure/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/piyush332020/data_structure/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/piyush332020/data_structure/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/piyush332020/data_structure/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/piyush332020/data_structure/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -202,6 +204,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/piyush332020/data_structure/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/piyush332020/data_structure/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/piyush332020/data_structure/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/piyush332020/data_structure/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Linked List
 |  |
 | ------- |
