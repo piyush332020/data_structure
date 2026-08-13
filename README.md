@@ -22,6 +22,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyush332020/data_structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/piyush332020/data_structure/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/piyush332020/data_structure/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/piyush332020/data_structure/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/piyush332020/data_structure/tree/master/0219-contains-duplicate-ii) |
 | [0435-non-overlapping-intervals](https://github.com/piyush332020/data_structure/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/piyush332020/data_structure/tree/master/0486-predict-the-winner) |
@@ -200,6 +201,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyush332020/data_structure/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/piyush332020/data_structure/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/piyush332020/data_structure/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/piyush332020/data_structure/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/piyush332020/data_structure/tree/master/0713-subarray-product-less-than-k) |
@@ -304,6 +306,7 @@
 | [0035-search-insert-position](https://github.com/piyush332020/data_structure/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/piyush332020/data_structure/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyush332020/data_structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/piyush332020/data_structure/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/piyush332020/data_structure/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/piyush332020/data_structure/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/piyush332020/data_structure/tree/master/1004-max-consecutive-ones-iii) |
@@ -311,6 +314,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/piyush332020/data_structure/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/piyush332020/data_structure/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/piyush332020/data_structure/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/piyush332020/data_structure/tree/master/1004-max-consecutive-ones-iii) |
