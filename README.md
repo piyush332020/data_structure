@@ -36,6 +36,7 @@
 | [0739-daily-temperatures](https://github.com/piyush332020/data_structure/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/piyush332020/data_structure/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/piyush332020/data_structure/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/piyush332020/data_structure/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/piyush332020/data_structure/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/piyush332020/data_structure/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/piyush332020/data_structure/tree/master/0992-subarrays-with-k-different-integers) |
@@ -202,6 +203,7 @@
 | [0435-non-overlapping-intervals](https://github.com/piyush332020/data_structure/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/piyush332020/data_structure/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/piyush332020/data_structure/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/piyush332020/data_structure/tree/master/0918-maximum-sum-circular-subarray) |
 | [1406-stone-game-iii](https://github.com/piyush332020/data_structure/tree/master/1406-stone-game-iii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/piyush332020/data_structure/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/piyush332020/data_structure/tree/master/3976-maximum-subarray-sum-after-multiplier) |
@@ -240,6 +242,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/piyush332020/data_structure/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/piyush332020/data_structure/tree/master/0622-design-circular-queue) |
+| [0918-maximum-sum-circular-subarray](https://github.com/piyush332020/data_structure/tree/master/0918-maximum-sum-circular-subarray) |
 ## Math
 |  |
 | ------- |
@@ -351,6 +354,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/piyush332020/data_structure/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/piyush332020/data_structure/tree/master/0169-majority-element) |
+| [0918-maximum-sum-circular-subarray](https://github.com/piyush332020/data_structure/tree/master/0918-maximum-sum-circular-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -390,4 +394,8 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/piyush332020/data_structure/tree/master/0523-continuous-subarray-sum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/piyush332020/data_structure/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
