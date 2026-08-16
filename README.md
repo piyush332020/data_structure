@@ -73,6 +73,7 @@
 | [0018-4sum](https://github.com/piyush332020/data_structure/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyush332020/data_structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/piyush332020/data_structure/tree/master/0189-rotate-array) |
+| [0633-sum-of-square-numbers](https://github.com/piyush332020/data_structure/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/piyush332020/data_structure/tree/master/0977-squares-of-a-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/piyush332020/data_structure/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -253,6 +254,7 @@
 | [0486-predict-the-winner](https://github.com/piyush332020/data_structure/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/piyush332020/data_structure/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyush332020/data_structure/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/piyush332020/data_structure/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/piyush332020/data_structure/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/piyush332020/data_structure/tree/master/1406-stone-game-iii) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/piyush332020/data_structure/tree/master/1551-minimum-operations-to-make-array-equal) |
@@ -333,6 +335,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/piyush332020/data_structure/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyush332020/data_structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/piyush332020/data_structure/tree/master/0209-minimum-size-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/piyush332020/data_structure/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/piyush332020/data_structure/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/piyush332020/data_structure/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/piyush332020/data_structure/tree/master/1004-max-consecutive-ones-iii) |
