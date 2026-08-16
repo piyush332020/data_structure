@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/piyush332020/data_structure/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/piyush332020/data_structure/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/piyush332020/data_structure/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/piyush332020/data_structure/tree/master/0035-search-insert-position) |
@@ -71,6 +72,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/piyush332020/data_structure/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/piyush332020/data_structure/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyush332020/data_structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/piyush332020/data_structure/tree/master/0189-rotate-array) |
@@ -80,6 +82,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/piyush332020/data_structure/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/piyush332020/data_structure/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/piyush332020/data_structure/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/piyush332020/data_structure/tree/master/0169-majority-element) |
