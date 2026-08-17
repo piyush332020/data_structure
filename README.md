@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/piyush332020/data_structure/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/piyush332020/data_structure/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/piyush332020/data_structure/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/piyush332020/data_structure/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/piyush332020/data_structure/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/piyush332020/data_structure/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/piyush332020/data_structure/tree/master/0053-maximum-subarray) |
@@ -76,6 +77,7 @@
 | [0011-container-with-most-water](https://github.com/piyush332020/data_structure/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/piyush332020/data_structure/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/piyush332020/data_structure/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/piyush332020/data_structure/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyush332020/data_structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/piyush332020/data_structure/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/piyush332020/data_structure/tree/master/0633-sum-of-square-numbers) |
@@ -107,6 +109,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/piyush332020/data_structure/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/piyush332020/data_structure/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/piyush332020/data_structure/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/piyush332020/data_structure/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/piyush332020/data_structure/tree/master/0496-next-greater-element-i) |
@@ -122,6 +125,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/piyush332020/data_structure/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/piyush332020/data_structure/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/piyush332020/data_structure/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/piyush332020/data_structure/tree/master/0496-next-greater-element-i) |
@@ -212,6 +216,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/piyush332020/data_structure/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/piyush332020/data_structure/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/piyush332020/data_structure/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/piyush332020/data_structure/tree/master/0064-minimum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/piyush332020/data_structure/tree/master/0435-non-overlapping-intervals) |
