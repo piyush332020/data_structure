@@ -43,6 +43,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/piyush332020/data_structure/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/piyush332020/data_structure/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/piyush332020/data_structure/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/piyush332020/data_structure/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/piyush332020/data_structure/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/piyush332020/data_structure/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/piyush332020/data_structure/tree/master/1288-remove-covered-intervals) |
@@ -231,6 +232,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/piyush332020/data_structure/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/piyush332020/data_structure/tree/master/0064-minimum-path-sum) |
+| [0994-rotting-oranges](https://github.com/piyush332020/data_structure/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/piyush332020/data_structure/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/piyush332020/data_structure/tree/master/1314-matrix-block-sum) |
 ## Sliding Window
@@ -296,6 +298,7 @@
 | ------- |
 | [0684-redundant-connection](https://github.com/piyush332020/data_structure/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/piyush332020/data_structure/tree/master/0797-all-paths-from-source-to-target) |
+| [0994-rotting-oranges](https://github.com/piyush332020/data_structure/tree/master/0994-rotting-oranges) |
 | [2685-count-the-number-of-complete-components](https://github.com/piyush332020/data_structure/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/piyush332020/data_structure/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
