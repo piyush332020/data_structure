@@ -11,6 +11,7 @@
 | [0018-4sum](https://github.com/piyush332020/data_structure/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/piyush332020/data_structure/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/piyush332020/data_structure/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/piyush332020/data_structure/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/piyush332020/data_structure/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/piyush332020/data_structure/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/piyush332020/data_structure/tree/master/0049-group-anagrams) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyush332020/data_structure/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/piyush332020/data_structure/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/piyush332020/data_structure/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/piyush332020/data_structure/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/piyush332020/data_structure/tree/master/0169-majority-element) |
@@ -235,6 +237,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/piyush332020/data_structure/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/piyush332020/data_structure/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/piyush332020/data_structure/tree/master/0064-minimum-path-sum) |
 | [0994-rotting-oranges](https://github.com/piyush332020/data_structure/tree/master/0994-rotting-oranges) |
