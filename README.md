@@ -63,6 +63,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/piyush332020/data_structure/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/piyush332020/data_structure/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/piyush332020/data_structure/tree/master/2029-stone-game-ix) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/piyush332020/data_structure/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/piyush332020/data_structure/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/piyush332020/data_structure/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/piyush332020/data_structure/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -158,6 +159,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/piyush332020/data_structure/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/piyush332020/data_structure/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/piyush332020/data_structure/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/piyush332020/data_structure/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/piyush332020/data_structure/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/piyush332020/data_structure/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/piyush332020/data_structure/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -245,6 +247,7 @@
 | [0994-rotting-oranges](https://github.com/piyush332020/data_structure/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/piyush332020/data_structure/tree/master/1260-shift-2d-grid) |
 | [1314-matrix-block-sum](https://github.com/piyush332020/data_structure/tree/master/1314-matrix-block-sum) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/piyush332020/data_structure/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Sliding Window
 |  |
 | ------- |
