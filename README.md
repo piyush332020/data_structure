@@ -70,6 +70,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/piyush332020/data_structure/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/piyush332020/data_structure/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/piyush332020/data_structure/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/piyush332020/data_structure/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/piyush332020/data_structure/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/piyush332020/data_structure/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/piyush332020/data_structure/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -295,6 +296,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/piyush332020/data_structure/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/piyush332020/data_structure/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/piyush332020/data_structure/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/piyush332020/data_structure/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/piyush332020/data_structure/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/piyush332020/data_structure/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/piyush332020/data_structure/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -345,6 +347,7 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/piyush332020/data_structure/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/piyush332020/data_structure/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/piyush332020/data_structure/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/piyush332020/data_structure/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Biconnected Component
@@ -356,6 +359,7 @@
 | ------- |
 | [0078-subsets](https://github.com/piyush332020/data_structure/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/piyush332020/data_structure/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/piyush332020/data_structure/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/piyush332020/data_structure/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/piyush332020/data_structure/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/piyush332020/data_structure/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -376,6 +380,7 @@
 | [0875-koko-eating-bananas](https://github.com/piyush332020/data_structure/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/piyush332020/data_structure/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/piyush332020/data_structure/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/piyush332020/data_structure/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -452,4 +457,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/piyush332020/data_structure/tree/master/0020-valid-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/piyush332020/data_structure/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
