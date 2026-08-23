@@ -288,6 +288,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/piyush332020/data_structure/tree/master/0189-rotate-array) |
+| [0326-power-of-three](https://github.com/piyush332020/data_structure/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/piyush332020/data_structure/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/piyush332020/data_structure/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyush332020/data_structure/tree/master/0628-maximum-product-of-three-numbers) |
@@ -411,6 +412,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/piyush332020/data_structure/tree/master/0025-reverse-nodes-in-k-group) |
+| [0326-power-of-three](https://github.com/piyush332020/data_structure/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/piyush332020/data_structure/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
