@@ -61,6 +61,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/piyush332020/data_structure/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/piyush332020/data_structure/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/piyush332020/data_structure/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/piyush332020/data_structure/tree/master/1872-stone-game-viii) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/piyush332020/data_structure/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/piyush332020/data_structure/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/piyush332020/data_structure/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -244,6 +245,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/piyush332020/data_structure/tree/master/0918-maximum-sum-circular-subarray) |
 | [1406-stone-game-iii](https://github.com/piyush332020/data_structure/tree/master/1406-stone-game-iii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/piyush332020/data_structure/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1872-stone-game-viii](https://github.com/piyush332020/data_structure/tree/master/1872-stone-game-viii) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/piyush332020/data_structure/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Matrix
 |  |
@@ -296,6 +298,7 @@
 | [0877-stone-game](https://github.com/piyush332020/data_structure/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/piyush332020/data_structure/tree/master/1406-stone-game-iii) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/piyush332020/data_structure/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1872-stone-game-viii](https://github.com/piyush332020/data_structure/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/piyush332020/data_structure/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/piyush332020/data_structure/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/piyush332020/data_structure/tree/master/2029-stone-game-ix) |
@@ -398,6 +401,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/piyush332020/data_structure/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/piyush332020/data_structure/tree/master/1314-matrix-block-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/piyush332020/data_structure/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1872-stone-game-viii](https://github.com/piyush332020/data_structure/tree/master/1872-stone-game-viii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -420,6 +424,7 @@
 | [0486-predict-the-winner](https://github.com/piyush332020/data_structure/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/piyush332020/data_structure/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/piyush332020/data_structure/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/piyush332020/data_structure/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/piyush332020/data_structure/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/piyush332020/data_structure/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -427,12 +432,14 @@
 | ------- |
 | [0877-stone-game](https://github.com/piyush332020/data_structure/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/piyush332020/data_structure/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/piyush332020/data_structure/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/piyush332020/data_structure/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/piyush332020/data_structure/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/piyush332020/data_structure/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/piyush332020/data_structure/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/piyush332020/data_structure/tree/master/2029-stone-game-ix) |
 ## Algorithm X
 |  |
