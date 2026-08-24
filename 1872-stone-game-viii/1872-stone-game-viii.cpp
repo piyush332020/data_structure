@@ -1,3 +1,8 @@
+auto x = []() {
+    ios_base::sync_with_stdio(0);
+    cin.tie(0);
+    return 0;
+}();
 class Solution {
 // private:
 //     int solve(int i,vector<int>&prefix,vector<int>& dp){
