@@ -92,6 +92,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyush332020/data_structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/piyush332020/data_structure/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/piyush332020/data_structure/tree/master/0633-sum-of-square-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/piyush332020/data_structure/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/piyush332020/data_structure/tree/master/0977-squares-of-a-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/piyush332020/data_structure/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -280,6 +281,7 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/piyush332020/data_structure/tree/master/0025-reverse-nodes-in-k-group) |
 | [0622-design-circular-queue](https://github.com/piyush332020/data_structure/tree/master/0622-design-circular-queue) |
+| [0876-middle-of-the-linked-list](https://github.com/piyush332020/data_structure/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
