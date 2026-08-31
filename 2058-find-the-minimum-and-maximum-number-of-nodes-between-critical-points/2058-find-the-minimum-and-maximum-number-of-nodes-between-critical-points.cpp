@@ -30,7 +30,7 @@ public:
         int n=ans.size();
         if(ans.size()>=2){
             for(int i=1;i<ans.size();i++){
-                mindist=min(mindist,ans[i]-ans[i-1]);
+                mindist=min(mindist,ans[i]-ans[i-1]);                                
             }
             maxdist=ans[n-1]-ans[0];
             return {mindist,maxdist};
