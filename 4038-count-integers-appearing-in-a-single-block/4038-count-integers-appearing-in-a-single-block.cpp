@@ -6,10 +6,10 @@ public:
             mp[nums[i]].push_back(i);
         }
         int count=0;
-        for(auto &it:mp){
-            if(it.second.size()==1){
-                count++;
-            }else{
+        for(auto &it:mp){          // for ex:          2->[1,2]
+            if(it.second.size()==1){         //        ^   ^
+                count++;                     //        |   |
+            }else{                           // it.first   it.second
                 bool isspecial=true;
                 for(int i=1;i<it.second.size();i++){
                     if(it.second[i-1]+1!=it.second[i]){
