@@ -1,8 +1,6 @@
 class Solution {
 public:
     bool uniformArray(vector<int>& nums1) {
-        int countodd=0;
-        int counteven=0;
         int minval=nums1[0];
         for(int i:nums1){
             if(i<minval) minval=i;
