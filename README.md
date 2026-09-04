@@ -83,6 +83,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/piyush332020/data_structure/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/piyush332020/data_structure/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/piyush332020/data_structure/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/piyush332020/data_structure/tree/master/3903-smallest-stable-index-i) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/piyush332020/data_structure/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/piyush332020/data_structure/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Two Pointers
@@ -415,6 +416,7 @@
 | [1314-matrix-block-sum](https://github.com/piyush332020/data_structure/tree/master/1314-matrix-block-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/piyush332020/data_structure/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/piyush332020/data_structure/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/piyush332020/data_structure/tree/master/3903-smallest-stable-index-i) |
 ## Counting Sort
 |  |
 | ------- |
