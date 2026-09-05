@@ -10,12 +10,10 @@ public:
                 count++;
                 i++;
             }
+            ans.push_back(curr);
             if(count>1){
-                ans.push_back(curr);
                 string temp=to_string(count);
                 for(auto c:temp) ans.push_back(c);
-            }else{
-                ans.push_back(curr);
             }
         }
         chars=ans;
