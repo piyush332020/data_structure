@@ -322,6 +322,7 @@
 | [0523-continuous-subarray-sum](https://github.com/piyush332020/data_structure/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyush332020/data_structure/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/piyush332020/data_structure/tree/master/0633-sum-of-square-numbers) |
+| [0836-rectangle-overlap](https://github.com/piyush332020/data_structure/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/piyush332020/data_structure/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/piyush332020/data_structure/tree/master/1406-stone-game-iii) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/piyush332020/data_structure/tree/master/1551-minimum-operations-to-make-array-equal) |
@@ -519,4 +520,8 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/piyush332020/data_structure/tree/master/0176-second-highest-salary) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/piyush332020/data_structure/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
