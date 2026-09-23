@@ -170,6 +170,7 @@
 | [0036-valid-sudoku](https://github.com/piyush332020/data_structure/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/piyush332020/data_structure/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/piyush332020/data_structure/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/piyush332020/data_structure/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/piyush332020/data_structure/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/piyush332020/data_structure/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/piyush332020/data_structure/tree/master/0229-majority-element-ii) |
@@ -218,6 +219,7 @@
 | [0020-valid-parentheses](https://github.com/piyush332020/data_structure/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/piyush332020/data_structure/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/piyush332020/data_structure/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/piyush332020/data_structure/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/piyush332020/data_structure/tree/master/0115-distinct-subsequences) |
 | [0316-remove-duplicate-letters](https://github.com/piyush332020/data_structure/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyush332020/data_structure/tree/master/0387-first-unique-character-in-a-string) |
@@ -304,6 +306,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyush332020/data_structure/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/piyush332020/data_structure/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/piyush332020/data_structure/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/piyush332020/data_structure/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/piyush332020/data_structure/tree/master/0424-longest-repeating-character-replacement) |
