@@ -189,6 +189,7 @@
 | [1386-cinema-seat-allocation](https://github.com/piyush332020/data_structure/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/piyush332020/data_structure/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/piyush332020/data_structure/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/piyush332020/data_structure/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2094-finding-3-digit-even-numbers](https://github.com/piyush332020/data_structure/tree/master/2094-finding-3-digit-even-numbers) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/piyush332020/data_structure/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/piyush332020/data_structure/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -230,6 +231,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/piyush332020/data_structure/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/piyush332020/data_structure/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/piyush332020/data_structure/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/piyush332020/data_structure/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/piyush332020/data_structure/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/piyush332020/data_structure/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/piyush332020/data_structure/tree/master/2124-check-if-all-as-appears-before-all-bs) |
