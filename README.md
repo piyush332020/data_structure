@@ -66,6 +66,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/piyush332020/data_structure/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/piyush332020/data_structure/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/piyush332020/data_structure/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/piyush332020/data_structure/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/piyush332020/data_structure/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/piyush332020/data_structure/tree/master/1872-stone-game-viii) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/piyush332020/data_structure/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -193,6 +194,7 @@
 | [1386-cinema-seat-allocation](https://github.com/piyush332020/data_structure/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/piyush332020/data_structure/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/piyush332020/data_structure/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/piyush332020/data_structure/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/piyush332020/data_structure/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2094-finding-3-digit-even-numbers](https://github.com/piyush332020/data_structure/tree/master/2094-finding-3-digit-even-numbers) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/piyush332020/data_structure/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -235,6 +237,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/piyush332020/data_structure/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/piyush332020/data_structure/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/piyush332020/data_structure/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/piyush332020/data_structure/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/piyush332020/data_structure/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/piyush332020/data_structure/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/piyush332020/data_structure/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
