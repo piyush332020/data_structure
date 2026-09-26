@@ -17,7 +17,7 @@ public:
                     j++;
                     i++;
                 }
-                if(mp.find(temp)!=mp.end() && temp!=""){
+                if(mp.count(temp)){
                 t+=mp[temp];
                 }else{
                     t+='?';
