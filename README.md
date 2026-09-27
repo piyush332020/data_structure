@@ -152,6 +152,7 @@
 | [0496-next-greater-element-i](https://github.com/piyush332020/data_structure/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/piyush332020/data_structure/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/piyush332020/data_structure/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/piyush332020/data_structure/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/piyush332020/data_structure/tree/master/1441-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
@@ -239,6 +240,7 @@
 | [0443-string-compression](https://github.com/piyush332020/data_structure/tree/master/0443-string-compression) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/piyush332020/data_structure/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/piyush332020/data_structure/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/piyush332020/data_structure/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/piyush332020/data_structure/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/piyush332020/data_structure/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/piyush332020/data_structure/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -553,6 +555,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/piyush332020/data_structure/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/piyush332020/data_structure/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Combinatorics
 |  |
 | ------- |
