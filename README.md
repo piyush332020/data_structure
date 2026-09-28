@@ -154,6 +154,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/piyush332020/data_structure/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/piyush332020/data_structure/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/piyush332020/data_structure/tree/master/1441-build-an-array-with-stack-operations) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/piyush332020/data_structure/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -243,6 +244,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/piyush332020/data_structure/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/piyush332020/data_structure/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/piyush332020/data_structure/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/piyush332020/data_structure/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/piyush332020/data_structure/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/piyush332020/data_structure/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/piyush332020/data_structure/tree/master/1927-sum-game) |
@@ -556,6 +558,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/piyush332020/data_structure/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/piyush332020/data_structure/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/piyush332020/data_structure/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Combinatorics
 |  |
 | ------- |
