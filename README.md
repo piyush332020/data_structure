@@ -147,6 +147,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/piyush332020/data_structure/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/piyush332020/data_structure/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/piyush332020/data_structure/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/piyush332020/data_structure/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/piyush332020/data_structure/tree/master/0316-remove-duplicate-letters) |
@@ -233,6 +234,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/piyush332020/data_structure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/piyush332020/data_structure/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/piyush332020/data_structure/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/piyush332020/data_structure/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/piyush332020/data_structure/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/piyush332020/data_structure/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/piyush332020/data_structure/tree/master/0115-distinct-subsequences) |
@@ -296,6 +298,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/piyush332020/data_structure/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/piyush332020/data_structure/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/piyush332020/data_structure/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/piyush332020/data_structure/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/piyush332020/data_structure/tree/master/0064-minimum-path-sum) |
@@ -563,6 +566,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/piyush332020/data_structure/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/piyush332020/data_structure/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/piyush332020/data_structure/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/piyush332020/data_structure/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/piyush332020/data_structure/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/piyush332020/data_structure/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
