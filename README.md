@@ -154,6 +154,7 @@
 | [0496-next-greater-element-i](https://github.com/piyush332020/data_structure/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/piyush332020/data_structure/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/piyush332020/data_structure/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/piyush332020/data_structure/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/piyush332020/data_structure/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/piyush332020/data_structure/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/piyush332020/data_structure/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -245,6 +246,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/piyush332020/data_structure/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/piyush332020/data_structure/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/piyush332020/data_structure/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/piyush332020/data_structure/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/piyush332020/data_structure/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/piyush332020/data_structure/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/piyush332020/data_structure/tree/master/1189-maximum-number-of-balloons) |
@@ -572,6 +574,7 @@
 | [0022-generate-parentheses](https://github.com/piyush332020/data_structure/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/piyush332020/data_structure/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/piyush332020/data_structure/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/piyush332020/data_structure/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/piyush332020/data_structure/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/piyush332020/data_structure/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/piyush332020/data_structure/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
