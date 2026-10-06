@@ -155,6 +155,7 @@
 | [0678-valid-parenthesis-string](https://github.com/piyush332020/data_structure/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/piyush332020/data_structure/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/piyush332020/data_structure/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/piyush332020/data_structure/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/piyush332020/data_structure/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/piyush332020/data_structure/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/piyush332020/data_structure/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -247,6 +248,7 @@
 | [0443-string-compression](https://github.com/piyush332020/data_structure/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/piyush332020/data_structure/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/piyush332020/data_structure/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/piyush332020/data_structure/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/piyush332020/data_structure/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/piyush332020/data_structure/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/piyush332020/data_structure/tree/master/1189-maximum-number-of-balloons) |
@@ -288,6 +290,7 @@
 | [0435-non-overlapping-intervals](https://github.com/piyush332020/data_structure/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/piyush332020/data_structure/tree/master/0611-valid-triangle-number) |
 | [0678-valid-parenthesis-string](https://github.com/piyush332020/data_structure/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/piyush332020/data_structure/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/piyush332020/data_structure/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/piyush332020/data_structure/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1386-cinema-seat-allocation](https://github.com/piyush332020/data_structure/tree/master/1386-cinema-seat-allocation) |
@@ -575,6 +578,7 @@
 | [0032-longest-valid-parentheses](https://github.com/piyush332020/data_structure/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/piyush332020/data_structure/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/piyush332020/data_structure/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/piyush332020/data_structure/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/piyush332020/data_structure/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/piyush332020/data_structure/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/piyush332020/data_structure/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
