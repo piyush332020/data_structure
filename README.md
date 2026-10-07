@@ -241,6 +241,7 @@
 | [0049-group-anagrams](https://github.com/piyush332020/data_structure/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/piyush332020/data_structure/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/piyush332020/data_structure/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/piyush332020/data_structure/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/piyush332020/data_structure/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyush332020/data_structure/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/piyush332020/data_structure/tree/master/0424-longest-repeating-character-replacement) |
@@ -418,6 +419,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/piyush332020/data_structure/tree/master/0301-remove-invalid-parentheses) |
 | [0684-redundant-connection](https://github.com/piyush332020/data_structure/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/piyush332020/data_structure/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/piyush332020/data_structure/tree/master/0994-rotting-oranges) |
@@ -445,6 +447,7 @@
 | [0052-n-queens-ii](https://github.com/piyush332020/data_structure/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/piyush332020/data_structure/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/piyush332020/data_structure/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/piyush332020/data_structure/tree/master/0301-remove-invalid-parentheses) |
 | [0797-all-paths-from-source-to-target](https://github.com/piyush332020/data_structure/tree/master/0797-all-paths-from-source-to-target) |
 ## Number Theory
 |  |
