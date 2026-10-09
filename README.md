@@ -33,6 +33,7 @@
 | [0219-contains-duplicate-ii](https://github.com/piyush332020/data_structure/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/piyush332020/data_structure/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/piyush332020/data_structure/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/piyush332020/data_structure/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/piyush332020/data_structure/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/piyush332020/data_structure/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/piyush332020/data_structure/tree/master/0496-next-greater-element-i) |
@@ -125,6 +126,7 @@
 | [0049-group-anagrams](https://github.com/piyush332020/data_structure/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/piyush332020/data_structure/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/piyush332020/data_structure/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/piyush332020/data_structure/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/piyush332020/data_structure/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/piyush332020/data_structure/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyush332020/data_structure/tree/master/0628-maximum-product-of-three-numbers) |
@@ -193,6 +195,7 @@
 | [0169-majority-element](https://github.com/piyush332020/data_structure/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/piyush332020/data_structure/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/piyush332020/data_structure/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/piyush332020/data_structure/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyush332020/data_structure/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/piyush332020/data_structure/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/piyush332020/data_structure/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -385,6 +388,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/piyush332020/data_structure/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/piyush332020/data_structure/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/piyush332020/data_structure/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/piyush332020/data_structure/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/piyush332020/data_structure/tree/master/0523-continuous-subarray-sum) |
@@ -471,6 +475,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/piyush332020/data_structure/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/piyush332020/data_structure/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/piyush332020/data_structure/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/piyush332020/data_structure/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/piyush332020/data_structure/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -488,6 +493,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/piyush332020/data_structure/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyush332020/data_structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/piyush332020/data_structure/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/piyush332020/data_structure/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/piyush332020/data_structure/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/piyush332020/data_structure/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/piyush332020/data_structure/tree/master/0713-subarray-product-less-than-k) |
