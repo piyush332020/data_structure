@@ -42,6 +42,7 @@
 | [0611-valid-triangle-number](https://github.com/piyush332020/data_structure/tree/master/0611-valid-triangle-number) |
 | [0622-design-circular-queue](https://github.com/piyush332020/data_structure/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyush332020/data_structure/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/piyush332020/data_structure/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/piyush332020/data_structure/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/piyush332020/data_structure/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/piyush332020/data_structure/tree/master/0875-koko-eating-bananas) |
@@ -359,6 +360,7 @@
 | [0219-contains-duplicate-ii](https://github.com/piyush332020/data_structure/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/piyush332020/data_structure/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/piyush332020/data_structure/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/piyush332020/data_structure/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/piyush332020/data_structure/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/piyush332020/data_structure/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/piyush332020/data_structure/tree/master/0992-subarrays-with-k-different-integers) |
