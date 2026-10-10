@@ -80,6 +80,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/piyush332020/data_structure/tree/master/2094-finding-3-digit-even-numbers) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/piyush332020/data_structure/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/piyush332020/data_structure/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/piyush332020/data_structure/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/piyush332020/data_structure/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/piyush332020/data_structure/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/piyush332020/data_structure/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -137,6 +138,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/piyush332020/data_structure/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/piyush332020/data_structure/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/piyush332020/data_structure/tree/master/2094-finding-3-digit-even-numbers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/piyush332020/data_structure/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/piyush332020/data_structure/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/piyush332020/data_structure/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/piyush332020/data_structure/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -307,6 +309,7 @@
 | [1927-sum-game](https://github.com/piyush332020/data_structure/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/piyush332020/data_structure/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/piyush332020/data_structure/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/piyush332020/data_structure/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/piyush332020/data_structure/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/piyush332020/data_structure/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/piyush332020/data_structure/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -485,6 +488,7 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyush332020/data_structure/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/piyush332020/data_structure/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -501,6 +505,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/piyush332020/data_structure/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/piyush332020/data_structure/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/piyush332020/data_structure/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/piyush332020/data_structure/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/piyush332020/data_structure/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/piyush332020/data_structure/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Prefix Sum
