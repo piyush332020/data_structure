@@ -34,6 +34,7 @@
 | [0229-majority-element-ii](https://github.com/piyush332020/data_structure/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/piyush332020/data_structure/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/piyush332020/data_structure/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/piyush332020/data_structure/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/piyush332020/data_structure/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/piyush332020/data_structure/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/piyush332020/data_structure/tree/master/0496-next-greater-element-i) |
@@ -332,6 +333,7 @@
 | [0115-distinct-subsequences](https://github.com/piyush332020/data_structure/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/piyush332020/data_structure/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/piyush332020/data_structure/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/piyush332020/data_structure/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/piyush332020/data_structure/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/piyush332020/data_structure/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/piyush332020/data_structure/tree/master/0678-valid-parenthesis-string) |
@@ -443,6 +445,7 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/piyush332020/data_structure/tree/master/0301-remove-invalid-parentheses) |
+| [0322-coin-change](https://github.com/piyush332020/data_structure/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/piyush332020/data_structure/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/piyush332020/data_structure/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/piyush332020/data_structure/tree/master/0994-rotting-oranges) |
@@ -641,4 +644,12 @@
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/piyush332020/data_structure/tree/master/1137-n-th-tribonacci-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/piyush332020/data_structure/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/piyush332020/data_structure/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
