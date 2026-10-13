@@ -99,6 +99,7 @@
 | [3659-partition-array-into-k-distinct-groups](https://github.com/piyush332020/data_structure/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/piyush332020/data_structure/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/piyush332020/data_structure/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/piyush332020/data_structure/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/piyush332020/data_structure/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/piyush332020/data_structure/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/piyush332020/data_structure/tree/master/3875-construct-uniform-parity-array-i) |
@@ -148,6 +149,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/piyush332020/data_structure/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/piyush332020/data_structure/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/piyush332020/data_structure/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/piyush332020/data_structure/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/piyush332020/data_structure/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/piyush332020/data_structure/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/piyush332020/data_structure/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -321,6 +323,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/piyush332020/data_structure/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/piyush332020/data_structure/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/piyush332020/data_structure/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/piyush332020/data_structure/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/piyush332020/data_structure/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Dynamic Programming
 |  |
