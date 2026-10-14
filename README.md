@@ -323,6 +323,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/piyush332020/data_structure/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/piyush332020/data_structure/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/piyush332020/data_structure/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/piyush332020/data_structure/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/piyush332020/data_structure/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/piyush332020/data_structure/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Dynamic Programming
@@ -430,6 +431,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/piyush332020/data_structure/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/piyush332020/data_structure/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/piyush332020/data_structure/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/piyush332020/data_structure/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/piyush332020/data_structure/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/piyush332020/data_structure/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/piyush332020/data_structure/tree/master/3870-count-commas-in-range) |
