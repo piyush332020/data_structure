@@ -67,6 +67,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyush332020/data_structure/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/piyush332020/data_structure/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1534-count-good-triplets](https://github.com/piyush332020/data_structure/tree/master/1534-count-good-triplets) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyush332020/data_structure/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/piyush332020/data_structure/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/piyush332020/data_structure/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/piyush332020/data_structure/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -351,6 +352,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/piyush332020/data_structure/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/piyush332020/data_structure/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/piyush332020/data_structure/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyush332020/data_structure/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/piyush332020/data_structure/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/piyush332020/data_structure/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/piyush332020/data_structure/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -423,6 +425,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/piyush332020/data_structure/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/piyush332020/data_structure/tree/master/1406-stone-game-iii) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/piyush332020/data_structure/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyush332020/data_structure/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/piyush332020/data_structure/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/piyush332020/data_structure/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/piyush332020/data_structure/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -465,6 +468,7 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/piyush332020/data_structure/tree/master/0684-redundant-connection) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyush332020/data_structure/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/piyush332020/data_structure/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -557,6 +561,7 @@
 | [0053-maximum-subarray](https://github.com/piyush332020/data_structure/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/piyush332020/data_structure/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/piyush332020/data_structure/tree/master/0918-maximum-sum-circular-subarray) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyush332020/data_structure/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Recursion
 |  |
 | ------- |
@@ -632,6 +637,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyush332020/data_structure/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/piyush332020/data_structure/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Range Minimum/Maximum Query
 |  |
@@ -654,6 +660,7 @@
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/piyush332020/data_structure/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyush332020/data_structure/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -670,4 +677,20 @@
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/piyush332020/data_structure/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyush332020/data_structure/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyush332020/data_structure/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyush332020/data_structure/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyush332020/data_structure/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
