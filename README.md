@@ -79,6 +79,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/piyush332020/data_structure/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/piyush332020/data_structure/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/piyush332020/data_structure/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/piyush332020/data_structure/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/piyush332020/data_structure/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/piyush332020/data_structure/tree/master/2094-finding-3-digit-even-numbers) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/piyush332020/data_structure/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -145,6 +146,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyush332020/data_structure/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/piyush332020/data_structure/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/piyush332020/data_structure/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/piyush332020/data_structure/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/piyush332020/data_structure/tree/master/2094-finding-3-digit-even-numbers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/piyush332020/data_structure/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/piyush332020/data_structure/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -532,6 +534,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/piyush332020/data_structure/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/piyush332020/data_structure/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/piyush332020/data_structure/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/piyush332020/data_structure/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/piyush332020/data_structure/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/piyush332020/data_structure/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/piyush332020/data_structure/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
