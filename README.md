@@ -11,6 +11,7 @@
 | [0015-3sum](https://github.com/piyush332020/data_structure/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/piyush332020/data_structure/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/piyush332020/data_structure/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/piyush332020/data_structure/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/piyush332020/data_structure/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/piyush332020/data_structure/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/piyush332020/data_structure/tree/master/0037-sudoku-solver) |
@@ -522,6 +523,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/piyush332020/data_structure/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/piyush332020/data_structure/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/piyush332020/data_structure/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/piyush332020/data_structure/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyush332020/data_structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
