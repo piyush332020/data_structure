@@ -101,6 +101,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/piyush332020/data_structure/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/piyush332020/data_structure/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/piyush332020/data_structure/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/piyush332020/data_structure/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/piyush332020/data_structure/tree/master/3659-partition-array-into-k-distinct-groups) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/piyush332020/data_structure/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/piyush332020/data_structure/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -519,6 +520,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/piyush332020/data_structure/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/piyush332020/data_structure/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/piyush332020/data_structure/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/piyush332020/data_structure/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/piyush332020/data_structure/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
 |  |
