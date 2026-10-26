@@ -24,6 +24,7 @@
 | [0078-subsets](https://github.com/piyush332020/data_structure/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/piyush332020/data_structure/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/piyush332020/data_structure/tree/master/0084-largest-rectangle-in-histogram) |
+| [0130-surrounded-regions](https://github.com/piyush332020/data_structure/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/piyush332020/data_structure/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyush332020/data_structure/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/piyush332020/data_structure/tree/master/0169-majority-element) |
@@ -378,6 +379,7 @@
 | [0036-valid-sudoku](https://github.com/piyush332020/data_structure/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/piyush332020/data_structure/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/piyush332020/data_structure/tree/master/0064-minimum-path-sum) |
+| [0130-surrounded-regions](https://github.com/piyush332020/data_structure/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/piyush332020/data_structure/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/piyush332020/data_structure/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/piyush332020/data_structure/tree/master/1254-number-of-closed-islands) |
@@ -467,6 +469,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/piyush332020/data_structure/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/piyush332020/data_structure/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/piyush332020/data_structure/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/piyush332020/data_structure/tree/master/0797-all-paths-from-source-to-target) |
@@ -478,6 +481,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/piyush332020/data_structure/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/piyush332020/data_structure/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/piyush332020/data_structure/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/piyush332020/data_structure/tree/master/0322-coin-change) |
@@ -491,6 +495,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/piyush332020/data_structure/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/piyush332020/data_structure/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/piyush332020/data_structure/tree/master/0684-redundant-connection) |
 | [1254-number-of-closed-islands](https://github.com/piyush332020/data_structure/tree/master/1254-number-of-closed-islands) |
