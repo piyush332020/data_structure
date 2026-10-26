@@ -29,6 +29,7 @@
 | [0169-majority-element](https://github.com/piyush332020/data_structure/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/piyush332020/data_structure/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/piyush332020/data_structure/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/piyush332020/data_structure/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/piyush332020/data_structure/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/piyush332020/data_structure/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/piyush332020/data_structure/tree/master/0219-contains-duplicate-ii) |
@@ -377,6 +378,7 @@
 | [0036-valid-sudoku](https://github.com/piyush332020/data_structure/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/piyush332020/data_structure/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/piyush332020/data_structure/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/piyush332020/data_structure/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/piyush332020/data_structure/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/piyush332020/data_structure/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/piyush332020/data_structure/tree/master/1260-shift-2d-grid) |
@@ -465,6 +467,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/piyush332020/data_structure/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/piyush332020/data_structure/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/piyush332020/data_structure/tree/master/0797-all-paths-from-source-to-target) |
 | [1192-critical-connections-in-a-network](https://github.com/piyush332020/data_structure/tree/master/1192-critical-connections-in-a-network) |
@@ -475,6 +478,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/piyush332020/data_structure/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/piyush332020/data_structure/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/piyush332020/data_structure/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/piyush332020/data_structure/tree/master/0684-redundant-connection) |
@@ -487,6 +491,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/piyush332020/data_structure/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/piyush332020/data_structure/tree/master/0684-redundant-connection) |
 | [1254-number-of-closed-islands](https://github.com/piyush332020/data_structure/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyush332020/data_structure/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
