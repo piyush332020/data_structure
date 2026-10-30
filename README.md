@@ -311,6 +311,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/piyush332020/data_structure/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/piyush332020/data_structure/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/piyush332020/data_structure/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/piyush332020/data_structure/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting
 |  |
 | ------- |
@@ -516,6 +517,7 @@
 | [1192-critical-connections-in-a-network](https://github.com/piyush332020/data_structure/tree/master/1192-critical-connections-in-a-network) |
 | [2685-count-the-number-of-complete-components](https://github.com/piyush332020/data_structure/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/piyush332020/data_structure/tree/master/3310-remove-methods-from-project) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/piyush332020/data_structure/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -557,6 +559,7 @@
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/piyush332020/data_structure/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/piyush332020/data_structure/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/piyush332020/data_structure/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -740,4 +743,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/piyush332020/data_structure/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/piyush332020/data_structure/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
