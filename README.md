@@ -39,6 +39,7 @@
 | [0268-missing-number](https://github.com/piyush332020/data_structure/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/piyush332020/data_structure/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/piyush332020/data_structure/tree/master/0435-non-overlapping-intervals) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/piyush332020/data_structure/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/piyush332020/data_structure/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/piyush332020/data_structure/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/piyush332020/data_structure/tree/master/0523-continuous-subarray-sum) |
@@ -442,6 +443,7 @@
 | [0189-rotate-array](https://github.com/piyush332020/data_structure/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/piyush332020/data_structure/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/piyush332020/data_structure/tree/master/0326-power-of-three) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/piyush332020/data_structure/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/piyush332020/data_structure/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/piyush332020/data_structure/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/piyush332020/data_structure/tree/master/0628-maximum-product-of-three-numbers) |
