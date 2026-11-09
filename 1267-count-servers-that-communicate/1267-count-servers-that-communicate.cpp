@@ -1,7 +1,6 @@
 class Solution {
 private:
-    void solve(int i, int j, vector<vector<int>>& grid,
-               vector<vector<int>>& visited, int& count) {
+    void solve(int i, int j, vector<vector<int>>& grid,vector<vector<int>>& visited, int& count) {
 
         int m = grid.size();
         int n = grid[0].size();
